@@ -1,0 +1,25 @@
+initial commit
+# Veuillez saisir le message de validation pour vos modifications. Les lignes
+# commençant par '#' seront ignorées, et un message vide abandonne la validation.
+#
+# Sur la branche master
+#
+# Validation initiale
+#
+# Modifications qui seront validées :
+#	nouveau fichier : VIDEO_GENERATOR/__init__.py
+#	nouveau fichier : VIDEO_GENERATOR/__pycache__/__init__.cpython-310.pyc
+#	nouveau fichier : VIDEO_GENERATOR/__pycache__/settings.cpython-310.pyc
+#	nouveau fichier : VIDEO_GENERATOR/__pycache__/urls.cpython-310.pyc
+#	nouveau fichier : VIDEO_GENERATOR/__pycache__/wsgi.cpython-310.pyc
+#	nouveau fichier : VIDEO_GENERATOR/asgi.py
+#	nouveau fichier : VIDEO_GENERATOR/settings.py
+#	nouveau fichier : VIDEO_GENERATOR/urls.py
+#	nouveau fichier : VIDEO_GENERATOR/wsgi.py
+#	nouveau fichier : readme.md
+#
+# Fichiers non suivis:
+#	db.sqlite3
+#	manage.py
+#
+:wq
